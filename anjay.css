@@ -1,7 +1,6 @@
 
 
 			body{
-				background-color: #555;
 				font-family: sans-serif;
 				font-weight: 100;
 				font-size: 15px;
@@ -129,7 +128,7 @@
 			}
 
 			#footer{
-				min-height: 50px;
+				padding:10px;
 				background-color: #ccc;
 				color: #000;
 			}
